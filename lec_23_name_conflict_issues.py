@@ -199,5 +199,5 @@ class A:
     x = 10 #static variable 
     def __init__(self):
         self.x=15
-obj=A()
+obj=A() 
 print(obj.x)
